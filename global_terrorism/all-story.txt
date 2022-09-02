@@ -1,0 +1,95 @@
+01- Introduction
+02- Objectives
+03- Metadata
+04- Methodology
+
+01- Introduction
+Exploratory Data Analysis of Global Terrorism
+
+Definition of Terrorism
+The unlawful use of force or violence against persons or property to intimidate or coerce a Government, the civilian population, or any segment thereof, in furtherance of political or social objectives. There is NOT always a political reason beyond terrorism. There are also ideological, religious, money, power or just purely hate based motives can be found in terrorism.
+
+
+Exploratory Data Analysis and Visualization of Global Terrorism dataset using Tableau
+
+(Verbal: It's approach or philosophy of data analysis that can be done by variety of techniques mostly graphical or visual. 
+
+EDA helps to get the maximized insight into dataset
+- extract important variables 
+- find the correlation between the variables
+- detect the outliers or any anomalies
+- understand the trends present in the data 
+
+We will use visual analytics software Tableau which is highly rated by data industry pofessionals for its remarkable visulalization capabilities and its high performance and ease of use 
+
+
+02- Objectives
+Our Exploratory Data Analysis of Global Terrosim Dataset has three objetives
+
+- Find the core hot zones of terrorrism in the last 50 years
+- Security issues and inisights we get from data
+- Understand the trends of attacks for future 
+
+03- Metadata
+Metadata was used with permission of The Global Terrorism Database™ (GTD)  which is an open-source database that includes information on terrorist events around the world from 1970 through 2020. The data has both domestic and international terrorist incidents that have occurred during this time period and includes more than 200000 case (raws) with 133 attributes (columns). The data was also labelled for ML which helped us to grup and analyze at some point where it was requiried. Before using data we decreased the number of attributes down to 46 for two reasons. One, the variables we focued on analysis, two ease of handling data (even Tableau). 
+image: SS from metadata
+
+
+04- Methodology
+Hot zones of terrorism can be identified by facts based on 
+- number of attacks in geograpghies
+- number of people died & wounded (seperately and in total)
+- Value of property damaged
+- Type and extend of attack are to be measured from dataset.
+
+ - Time
+Firstly, we aim to look at very general trends within overall time to see the overall picture.  Secondly, the changes within every 10 year will be helpful to understand the trends  
+ 
+ - Terrorist Groups
+- How many terroris groups are there?
+- How many times each grouup have attacked?
+- How many people  have been killed or wounded? 
+
+- Sheets prepared
+Hot Zone Countries
+Attacks over Years
+Killed/Wound Over Years
+Property Damage over Years
+Terrorist Groups
+Propert Damage Extended
+Country & Attack Type
+Hot Zoned Countries
+Hot Zone Regions
+Attacks and the weapons
+Deceased across world
+No of kills target wise
+Success rate
+Property damage across the World
+Terrorist groups and their target countries
+Property damage attact type wise
+Hot Zones Dashboard
+Hot Zone Story
+
+
+
+05- Trends
+For further discussions and relevant measurements to be made, 
+We will try to understand 
+- the causalities and outcomes, 
+- the trends and expansions 
+with the help of following turning point dates about global terrorism in the world. Thus, to monitor the trends, 10 year intervals e.g., 1980,1990,2000,2010 will be helpful.
+
+Cold War Era
+- 1947	Cold war period - ended by December 1991
+- 1978  The Soviet Invasion of Afghanistan and the U.S. Response - ended by 1980 
+- 1990	Falling of the Berlin Wall, founding of new countries by 1990 https://disk.yandex.com.tr/i/Uv0L5kwaSiKGfQ
+
+The Era of Jihadist Terrorists
+- 1999	Foundation of Terrorist Group Islamic State of Iraq and the Levant - ISIL 1999
+- 2001	The September 11 Attack. Afganistan War which started as reason of 911 toook 20 years, 2001-2021
+- 2011	Neutralization of Osama bin Laden, the leader of Terrorist Group al-Qaeda
+
+
+06- Conclusion
+It is obvious that migration due to terrorism and wars around the world will change the number, frequency and content of terrorist attacks. It seems that the uptrend is the signal for this.
+
